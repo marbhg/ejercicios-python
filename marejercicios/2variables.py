@@ -7,11 +7,11 @@ numero = 5
 #Numero con decimales  (float)
 pi = 3.15
 
-#Verdadero o falso sin comillas (True  o Flase) 
-gusta_python = true
+#Verdadero o falso sin comillas y con la primera letra en mayuscula (True  o Flase) 
+gusta_python = True
 
 #Imprimir variables
-print("Nombre", Marbelis)
+print("Nombre", nombre)
 print("Numero", numero)
 print("Pi", pi)
 print("Me gusta Python?", gusta_python)
